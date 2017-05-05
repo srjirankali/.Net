@@ -36,7 +36,7 @@
 *.tlb
 *.tli
 *.tlh
-*.tm
+*.tmm
 *.tmp_proj
 *.log
 *.vspscc
